@@ -10,7 +10,6 @@ from instructions import txt_instruction,txt_test1,txt_test2,txt_test3,txt_sits
 from ruffier import test
 from runner import Runner
 from seconds import Seconds
-im
 age=7
 name=''
 p1,p2,p3=0,0,0
